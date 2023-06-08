@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="city_name_and_country" translatable="false">%s - %s</string>
+    <string name="type_your_city_name">Type your city name</string>
+
+
+    <string-array name="us_cities">
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Houston</item>
+        <item>Phoenix</item>
+        <item>Philadelphia</item>
+        <item>San Antonio</item>
+        <item>San Diego</item>
+        <item>Dallas</item>
+        <item>San Jose</item>
+        <item>Austin</item>
+        <item>Indianapolis</item>
+        <item>San Francisco</item>
+        <item>Jacksonville</item>
+        <item>Columbus</item>
+        <item>Charlotte</item>
+        <item>Fort Worth</item>
+        <item>Detroit</item>
+        <item>El Paso</item>
+        <item>Memphis</item>
+        <item>Seattle</item>
+        <item>Denver</item>
+        <item>Washington</item>
+        <item>Boston</item>
+        <item>Nashville</item>
+        <item>Baltimore</item>
+        <item>Oklahoma City</item>
+        <item>Louisville</item>
+        <item>Portland</item>
+        <item>Las Vegas</item>
+        <item>Milwaukee</item>
+        <item>Albuquerque</item>
+        <item>Tucson</item>
+        <item>Fresno</item>
+        <item>Sacramento</item>
+        <item>Long Beach</item>
+        <item>Kansas City</item>
+        <item>Mesa</item>
+        <item>Virginia Beach</item>
+        <item>Atlanta</item>
+        <item>Colorado Springs</item>
+        <item>Raleigh</item>
+        <item>Omaha</item>
+        <item>Miami</item>
+        <item>Oakland</item>
+        <item>Tulsa</item>
+        <item>Minneapolis</item>
+        <item>Cleveland</item>
+        <item>Wichita</item>
+    </string-array>
+
+</resources>
